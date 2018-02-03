@@ -1,2 +1,5 @@
 # python-intro
-cs103
+
+This is the homework collection for my CS103 class.
+
+---
